@@ -1,2 +1,2 @@
-# CBPhotoEditor
-CB Project
+# Photo Editor Mini Project
+
